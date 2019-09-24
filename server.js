@@ -16,7 +16,7 @@ app.use(bodyParser.json());
 app.use(express.static(__dirname + "/public"));
 app.set("/view", path.join(__dirname, "/public/view"));
 
-// session
+// initialize session
 app.use(
     session({
         secret: "notasecret",
