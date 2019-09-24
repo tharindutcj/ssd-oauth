@@ -69,7 +69,7 @@ router.get("/auth", (req, res) => {
 
 /**
  * This is call back function
- * In here, requrest the google apis using authorization code and
+ * In here, requrest to the google apis using authorization code and
  * receive the access token
  */
 router.use("/callback", (req, res) => {

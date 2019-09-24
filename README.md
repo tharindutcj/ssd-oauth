@@ -1,9 +1,22 @@
 # ssd-oauth
 Secure Software Development Assignment 2
 
-# How to Run
+
+## Local Setup
 Make sure you have installed NodeJs
 
-First Install node modules & run the server
-    1) npm install
-    2) npm start or nodeman server
+First Install node modules & run the server using following commands
+
+```
+$ npm install
+$ npm start
+  OR
+$ nodeman server
+
+```
+
+Navigate to the web application at: 
+[http://localhost:3000]
+
+
+
