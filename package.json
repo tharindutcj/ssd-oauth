@@ -14,7 +14,7 @@
         "express": "4.16.3",
         "express-session": "1.15.6",
         "googleapis": "^43.0.0",
-        "multer": "1.4.0",
+        "multer": "2.1.0",
         "nodemon": "1.18.4",
         "request": "2.88.0"
     }
